@@ -1,2 +1,2 @@
 # html
-Sample HTML
+Sample HTML Site with SEO
